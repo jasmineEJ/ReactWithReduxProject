@@ -1,0 +1,44 @@
+.textbox-width {
+  width: 90%;
+}
+
+.align-radio-group {
+  margin: 10%;
+}
+
+.no-hints {
+  color: #999;
+  padding: 0.5rem;
+}
+
+p {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.hints {
+  border: 1px solid #999;
+  border-top-width: 0;
+  list-style: none;
+  margin-top: 0;
+  max-height: 143px;
+  overflow-y: auto;
+  padding-left: 0;
+  width: calc(162px + 1rem);
+}
+
+.hints li {
+  padding: 0.5rem;
+}
+
+.hint-active,
+.hints li:hover {
+  background-color: lightgreen;
+  color: #fa4261;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.hints li:not(:last-of-type) {
+  border-bottom: 1px solid #999;
+}

@@ -1,0 +1,43 @@
+.passengerForm {
+  border: 0.5px solid lightgray;
+  padding: 30px;
+  background: ivory;
+}
+
+#formElement {
+  margin-left: 6%;
+  margin-top: 3%;
+}
+
+.fieldsetBorder {
+  width: 100%;
+  border: 1px solid beige;
+}
+
+.header-align {
+  margin: 4% 6%;
+  text-decoration: underline;
+}
+
+#costTextboxAlign {
+  width: 20% !important;
+}
+
+.topSpace {
+  margin-top: 3%;
+}
+
+.marginLeft {
+  margin-left: 3%;
+}
+
+.alignCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.filter-section {
+  margin: 5% 0%;
+  border: 1px solid beige;
+}

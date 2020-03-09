@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "logs": "explorerExcludedFiles",
+    "*.log": "explorerExcludedFiles",
+    "pids": "explorerExcludedFiles",
+    "*.pid": "explorerExcludedFiles",
+    "*.seed": "explorerExcludedFiles",
+    "lib-cov": "explorerExcludedFiles",
+    "coverage": "explorerExcludedFiles",
+    ".grunt": "explorerExcludedFiles",
+    ".lock-wscript": "explorerExcludedFiles",
+    "build/Release": "explorerExcludedFiles",
+    "node_modules": "explorerExcludedFiles",
+    "build": "explorerExcludedFiles",
+    ".idea": "explorerExcludedFiles",
+    ".DS_Store": "explorerExcludedFiles",
+    "db.json": "explorerExcludedFiles"
+  }
+}

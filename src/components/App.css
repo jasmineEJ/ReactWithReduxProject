@@ -1,0 +1,8 @@
+.app-container .nav {
+  font-size: 16px;
+  font-weight: bold;
+  height: 70px;
+  align-items: center;
+  justify-content: center;
+  background: #949494a6;
+}
